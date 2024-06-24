@@ -72,17 +72,6 @@ Disclaimer: info_outline Importante: os comentários e opiniões contidos neste 
 Content: The Magnificent Seven é um filme de faroeste de 1960 dirigido por John Sturges – mas o termo voltou à cena no ano passado em um contexto bem diferente...
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
-
-## Contact
-
-For any questions or suggestions, please contact Lohith Andra at lohith@example.com.
-```
-
-Feel free to customize this `README.md` file as needed for your project.
